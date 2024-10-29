@@ -9,11 +9,12 @@
 ## Brief Self-Introduction:
 *Currently I'm styding at MSMU, and supposed to be a dentist, but I feel like it's not my cup of tea. So I'm on my way to change my life and to reach new goals as a front-end developer. My core strengths are that I'm openminded, up to new ideas and easy to learn new skills.*
 ## My skills:
-1. *HTML*
-2. *CSS*
-3. *Basic JavaScript*
-4. *Git (remote service GitHub)*
+* *HTML*
+* *CSS*
+* *Basic JavaScript*
+* *Git (remote service GitHub)*
 ## Code examples:
+
 ``` 
 function separateTypes(input) {
     const result = {}; 
@@ -37,7 +38,7 @@ function separateTypes(input) {
  * *MSMU dentistry 2020 - to the present*
  * *IT-Incubator courses. Basic CSS, HTML, JS*
 
- ## Languages I speak:
+## Languages I speak:
   * *English B1 level*
   * *Norwegian B1 Level*
   * *Russian fluently*
