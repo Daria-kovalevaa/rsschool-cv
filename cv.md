@@ -1,4 +1,3 @@
-[RSSchool-CV](https://Daria-kovalevaa.github.io/rsschool-cv/cv)
 
 # Daria Kovaleva
 ![](c:\Users\Admin\Downloads\IMG_7360.jpg)
@@ -8,7 +7,7 @@
 * Instagram: *Daria_kovalevaa*
 * GitHub: *Daria-kovalevaa*
 ## Brief Self-Introduction:
-*Currently I'm styding at MSMU, and supposed t be a dentist, but i feel like it's not my cup of tea. So I'm on my way to change my life and to reach new goals as a front-end developer. My core strengths are that I'm openminded, up to new ideas and easy to learn new skills.*
+*Currently I'm styding at MSMU, and supposed to be a dentist, but I feel like it's not my cup of tea. So I'm on my way to change my life and to reach new goals as a front-end developer. My core strengths are that I'm openminded, up to new ideas and easy to learn new skills.*
 ## My skills:
 1. *HTML*
 2. *CSS*
@@ -40,7 +39,7 @@ function separateTypes(input) {
 
  ## Languages I speak:
   * *English B1 level*
-  * *Norwegian b1 Level*
+  * *Norwegian B1 Level*
   * *Russian fluently*
 
 
