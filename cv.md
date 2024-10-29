@@ -1,6 +1,6 @@
 
 # Daria Kovaleva
-![](c:\Users\Admin\Downloads\IMG_7360.jpg)
+
 ## How to contact me:
 * Discord: *dariakovalevaaa*
 * Mail: *lilak05@yandex.ru*
