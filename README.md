@@ -1,1 +1,2 @@
-https://Daria-kovalevaa.github.io/rsschool-cv/cv
+
+https://Daria-kovalevaa.github.io/rsschool-cv/
